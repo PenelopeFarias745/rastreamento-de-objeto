@@ -3,16 +3,19 @@
 ![Status-Concluído](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-Programa em Python que identifica um objeto selecionado e o acompanha em movimento.
+Programa em Python que identifica um objeto selecionado, o acompanha em movimento e rastreia sua trajetória.
 
 ---
 ## 📚 Aprendizados
 - Rastreamento de objetos
 - Uso de rastreador CSRT
 - Seleção de objetos em vídeos
+- Marcação de sua trajetória
+- Calculo de distância entre 2 objetos
 
 ## ⚙️ Funcionalidades
 - Permite que o usuário selecione um objeto para rastreamento no vídeo em exibição
+- Identifica se foi feita uma cesta, calculando a distância dela ao centro da bola
 
 ## 🛠️ Stack
 - Python
